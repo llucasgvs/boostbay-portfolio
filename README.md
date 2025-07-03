@@ -31,13 +31,50 @@ A inteligência por trás do sistema usa a **API da OpenAI** com engenharia de p
 
 ## 📸 Prints
 
+### 🔹 Página Inicial
+
 ![Pagina inicial boostbay](https://github.com/user-attachments/assets/f313f89a-0f11-4668-a9d6-8a8ffbbba9c8)
+
+---
+
+### 🔐 Login e Cadastro
+
+**Tela de Login:**
+
 ![Login Boostbay](https://github.com/user-attachments/assets/f9a5ee2f-ecc0-4c86-a7fb-7b6e897af3b3)
+
+**Tela de Cadastro:**
+
 ![Cadastro Boostbay](https://github.com/user-attachments/assets/dab0d87e-5593-480c-a37c-93b7c62f937f)
+
+---
+
+### 🧠 Geração de Anúncio com IA
+
+**Formulário para geração:**
+
 ![Pagina para gerar anuncio com IA](https://github.com/user-attachments/assets/48892f14-4f93-4f0c-9517-b77f775c92e9)
+
+**Resultado gerado com IA (título, descrição e atributos):**
+
 ![Anuncio gerado Boostbay](https://github.com/user-attachments/assets/e1fd827d-06cf-4a52-b366-973c3bc204e9)
+
+---
+
+### 📂 Histórico de Anúncios Gerados
+
 ![Historico](https://github.com/user-attachments/assets/a6c970cb-4e08-4d5b-8711-2079ad152042)
+
+---
+
+### 💳 Créditos e Pagamentos
+
+**Sistema de créditos e planos de assinatura:**
+
 ![Creditos e assinaturas](https://github.com/user-attachments/assets/f3f30ebc-000e-4f59-b37c-3ae8c5b9c1ee)
+
+**Checkout via Stripe:**
+
 ![Pagamento com Stripe](https://github.com/user-attachments/assets/ac88a3e4-5fb4-4881-8930-a7cb466b2489)
 
 ---
